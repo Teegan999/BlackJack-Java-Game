@@ -2,9 +2,10 @@
 BlackJack Game In Java 
 
 
-A simple Java Swing Blackjack game! Play against the dealer with Hit, Stand, and Restart buttons. Designed to be minimal, fun, and easy to understand. Perfect for beginners or anyone who wants a small Java GUI project.
+A simple Java Swing Blackjack game! Play against the dealer with Hit, Stand, and Restart buttons. Designed to be minimal, fun, and easy to understand. Perfect for beginners or anyone who wants a small Java GUI project.  It also contains a Casino Hub (Main Screen) that allows you to select a multitude of games (in the future I may include slots, roulette, etc.)
 
-Features of my application: 
+** Features of my application ** 
+-------------------------------
 1) Player vs Dealer gameplay
 
 2) HIT/ STAND / RESTART buttons
